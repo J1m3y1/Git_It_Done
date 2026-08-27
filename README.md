@@ -3,3 +3,4 @@
 # Group Members
 
 ## Jimmy Rubio-Gonzalez
+## Michael Jennings
